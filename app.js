@@ -1,6 +1,7 @@
 const App = () => {
+  console.log("heloo");
+  console.log("fffff");
   return (
-    console.log('heloo')
     <>
       <h1>hi</h1>
     </>
