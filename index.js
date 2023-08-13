@@ -1,8 +1,6 @@
 console.log("hi guys");
 
-alert("hi man");
-
-alert("zizu");
+console.log("in the name of god");
 
 //function
 console.log("hi");
