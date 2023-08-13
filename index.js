@@ -1,9 +1,8 @@
 console.log("hi guys");
 
-alert("hi man");
+console.log("hello guys");
 
-alert("zizu");
-
+alert("zizu how are you");
 //function
 console.log("hi");
 //function
